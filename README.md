@@ -4,7 +4,14 @@
  leo velit malesuada metus, quis volutpat libero ex vitae metus. Sed purus magna, dignissim non dolor maximus, accumsan euismod nunc. Morbi condimentum diam ac justo aliquam, vitae fringilla nibh feugiat. Mauris ut orci 
  lobortis, ultricies ligula sagittis, auctor risus. 
 ## Introduction
-This repository is for showing how Git and GitHub work
+ Mauris id lacinia nunc. Vestibulum tempus lorem neque, sed ornare sapien finibus non. Vestibulum est enim, pulvinar nec 
+ suscipit quis, rhoncus pharetra neque. Suspendisse et magna vitae enim posuere rhoncus. Etiam id risus sit amet tortor
+ ultrices condimentum. Integer cursus varius enim at convallis. Phasellus semper sapien eleifend magna tincidunt, at 
+ pretium dolor tempus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. 
+ Aliquam cursus nisi tincidunt vehicula sodales. Proin vulputate elit mollis, finibus nisi id, pulvinar odio. Donec 
+ tincidunt urna eros. Mauris a nibh porttitor, mattis enim vel, consectetur enim. Orci varius natoque penatibus et magnis 
+ dis parturient montes, nascetur ridiculus mus. Proin gravida dictum nibh, ut elementum dolor maximus quis. Mauris ut 
+ bibendum urna, a bibendum neque. 
 
 ## Purpose
 
