@@ -2,7 +2,8 @@
 # The humans responsible & technology colophon
 
 # TEAM
-
+	
+	Gabriel Torres   gtorres@clicklease.com
     <name> -- <role> -- <twitter>
 
 # THANKS
