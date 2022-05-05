@@ -29,4 +29,12 @@ Sample website with plenty of files for demos asdasdasdasd
 
 ## How To Contribute
 
- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc nec tellus odio. Vivamus congue velit eu lorem ullamcorper, at tempus nisl posuere. Pellentesque leo risus, dictum at ipsum nec, ullamcorper elementum velit. Ut sapien elit, auctor sed cursus nec, ultrices nec leo. In eu lorem leo. Quisque nibh magna, aliquam ac purus eu, egestas consequat lorem. Pellentesque sollicitudin augue ac felis pharetra malesuada. Curabitur lectus lectus, faucibus eu rutrum id, dictum quis velit. Integer nec rhoncus dolor, vel tempor justo. 
+ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc nec tellus odio. Vivamus congue velit eu lorem ullamcorper, 
+ at tempus nisl posuere. Pellentesque leo risus, dictum at ipsum nec, ullamcorper elementum velit. Ut sapien elit, auctor 
+ sed cursus nec, ultrices nec leo. In eu lorem leo. Quisque nibh magna, aliquam ac purus eu, egestas consequat lorem. 
+ Pellentesque sollicitudin augue ac felis pharetra malesuada. Curabitur lectus lectus, faucibus eu rutrum id, dictum quis velit. 
+ Integer nec rhoncus dolor, vel tempor justo. 
+ 
+ ## Copyright
+ 
+ 2022 Git training. All right reserved.
